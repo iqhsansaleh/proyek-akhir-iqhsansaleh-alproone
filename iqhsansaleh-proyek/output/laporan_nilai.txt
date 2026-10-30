@@ -1,0 +1,16 @@
+LAPORAN ANALISIS NILAI MATEMATIKA
+==================================
+Jumlah siswa       : 5
+Rata-rata kelas    : 60.60
+Nilai minimum      : 0
+Nilai maksimum     : 100
+KKM                : 60
+Tuntas             : 3
+Belum tuntas       : 2
+
+DAFTAR SISWA
+- Andi: 85 (Tuntas)
+- Bunga: 60 (Tuntas)
+- Citra: 58 (Belum Tuntas)
+- Dedi: 100 (Tuntas)
+- Eka: 0 (Belum Tuntas)

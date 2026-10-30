@@ -1,0 +1,6 @@
+
+Andi,85
+Bunga,60
+Citra,58
+Dedi,100
+Eka,0

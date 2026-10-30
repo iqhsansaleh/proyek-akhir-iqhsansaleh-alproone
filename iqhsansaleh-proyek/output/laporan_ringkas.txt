@@ -1,0 +1,12 @@
+LAPORAN REKAP NILAI MATEMATIKA KELAS
+===================================
+Total Siswa : 5
+Rata-rata   : 60.6
+Minimum     : 0.0
+Maksimum    : 100.0
+-----------------------------------
+Andi | 85.0 | Tuntas
+Bunga | 60.0 | Tuntas
+Citra | 58.0 | Belum Tuntas
+Dedi | 100.0 | Tuntas
+Eka | 0.0 | Belum Tuntas
