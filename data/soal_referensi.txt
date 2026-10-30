@@ -1,0 +1,4 @@
+# Format: Tingkat | Rentang Min | Rentang Max | Operator Tersedia
+Mudah | 1 | 10 | +, -
+Sedang | 10 | 50 | +, -, *
+Sulit | 50 | 100 | +, -, *
